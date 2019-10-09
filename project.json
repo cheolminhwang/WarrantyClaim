@@ -1,15 +1,16 @@
 {
-  "name": "WarrantyClaim",
+  "name": "WarrantyClaimV2",
   "description": "Warranty Claim",
   "main": "Main.xaml",
   "dependencies": {
     "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "UiPath.ComputerVision.Activities": "[2.2.0]",
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Database.Activities": "[1.1.6660.26865]",
     "UiPath.Excel.Activities": "[2.3.6682.26635]",
     "UiPath.Mail.Activities": "[1.6.0]",
     "UiPath.System.Activities": "[18.4.2]",
-    "UiPath.UIAutomation.Activities": "[18.4.3]",
+    "UiPath.UIAutomation.Activities": "[19.8.0-ce]",
     "UiPath.WebAPI.Activities": "[1.1.6479.13209]"
   },
   "webServices": [],
